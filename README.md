@@ -28,9 +28,3 @@
 
 ---
 
-## ⚙️ نصب و اجرا
-
-```bash
-git clone https://github.com/your-repo/crypto-aggregator.git
-cd crypto-aggregator
-npm install
